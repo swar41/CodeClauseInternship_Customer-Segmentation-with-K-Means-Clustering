@@ -8,6 +8,7 @@ This project applies K-Means clustering to segment customers based on their purc
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
+- [Output](#Output)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 
@@ -69,6 +70,10 @@ The script expects a CSV file named `customer_data.csv` with the following colum
 - `purchase_amount`: Amount spent by the customer on purchases
 - `promotion_usage`: Usage of promotional offers by the customer
 - `satisfaction_score`: Satisfaction score of the customer
+
+## Output
+  ![Screenshot 2024-06-21 225927](https://github.com/swar41/CodeClauseInternship_Customer-Segmentation-with-K-Means-Clustering/assets/141357728/e3a7d8d6-18b1-4484-96b5-4c594c6d4ffe)
+
 
 ## Technologies Used
 
